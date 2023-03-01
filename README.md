@@ -7,3 +7,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) egitiminde olusturdugumuz ilk 
 Oncelikle projeyi clonelayın.
 
 > git clone https://github.com/ceusahin/kodluyoruzilkrepo
+
+# Usage
+Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
+
+Linux icin:
+> cd kodluyoruzilkrepo
+> code .
