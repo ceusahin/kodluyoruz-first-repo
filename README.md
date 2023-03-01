@@ -16,3 +16,10 @@ Linux icin:
 cd kodluyoruzilkrepo
 code .
 ```
+
+# Contributing
+Pull requestler kabul edilir. Büyük degisiklikler icin, lutfen once neyi degiştirmek istediginizi tartismak icin bir konu aciniz.
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
+
