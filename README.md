@@ -12,5 +12,7 @@ Oncelikle projeyi clonelayın.
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
 Linux icin:
-> cd kodluyoruzilkrepo
-code .<
+```linux
+cd kodluyoruzilkrepo
+code .
+```
