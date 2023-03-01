@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
-Kodluyoruz bünyesi altında oluşturduğum ilk repo.
+# Kodluyoruz Ilk Repo
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README.md dosyasi, bir adet index.html dosyasi barindiriyor.
 
-aa
+![](C:\Users\reisd\Desktop\to be developer\1.png)
