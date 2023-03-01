@@ -13,4 +13,4 @@ Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
 Linux icin:
 > cd kodluyoruzilkrepo
-> code .
+code .<
