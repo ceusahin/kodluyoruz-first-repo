@@ -6,4 +6,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) egitiminde olusturdugumuz ilk 
 # Installation
 Oncelikle projeyi clonelayın.
 
-> git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+> git clone https://github.com/ceusahin/kodluyoruzilkrepo
